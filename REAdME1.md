@@ -151,7 +151,7 @@ Android 改机（Android Device Spoofing）是指通过修改设备标识、系�
 
 这些参数看起来都已经修改完成。但设备内部仍然保留着大量没有同步变化的信息，简单理解为：
 
-![设备环境对比](samsung vs pixel 9 pro.png)
+![设备环境对比](samsungvspixel9pro.jpeg)
 
 修改设备参数相对容易，真正困难的是：
 
